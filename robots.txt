@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://313354491.github.io/kartasindo-profil/sitemap.xml
